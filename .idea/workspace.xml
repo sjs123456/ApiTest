@@ -35,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ApiFuncs/nuc_funcs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="67" column="23" lean-forward="true" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="90" />
+            <state relative-caret-position="405">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -285,12 +285,12 @@
       <updated>1563526825404</updated>
       <workItem from="1567222593103" duration="6212000" />
       <workItem from="1567272347111" duration="324000" />
-      <workItem from="1568365894772" duration="2296000" />
+      <workItem from="1568365894772" duration="2911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8832000" />
+    <option name="totallyTimeSpent" value="9447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,6 +303,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49820143" visible="true" weight="0.25638297" />
       <window_info id="Structure" order="1" sideWeight="0.50179857" side_tool="true" weight="0.25159574" />
@@ -449,8 +450,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ApiFuncs/nuc_funcs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="67" column="23" lean-forward="true" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="90" />
+        <state relative-caret-position="405">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
